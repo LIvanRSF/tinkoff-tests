@@ -35,7 +35,7 @@ public class TinkoffTests extends TestBase {
     }
 
     @Test
-    @DisplayName("Switch language to English")
+    @DisplayName("Switch language to English on main page")
     void switchToEngLanguageTest() {
         step("Open https://www.tinkoff.ru/", () -> {
             open("");
