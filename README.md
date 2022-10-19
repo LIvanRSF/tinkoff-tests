@@ -85,7 +85,7 @@ test
 ## <img src="images/logo/Telegram.svg" width="25" height="25"  alt="Allure"/></a> Уведомление в Telegram при помощи бота
 
 <p align="center">
-<img title="Allure Overview Dashboard" src="images/screens/Screenshot_528.png" >
+<img title="Allure Overview Dashboard" src="images/screenshots/Telegramm.png" >
 </p>
 
 
