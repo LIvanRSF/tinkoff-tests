@@ -35,7 +35,7 @@
 
 ## <img src="images/logo/Jenkins.svg" width="25" height="25"  alt="Jenkins"/></a> Jenkins <a target="_blank" href="https://jenkins.autotests.cloud/job/tinkoff-tests/"> job </a>
 <p align="center">
-<a href="https://jenkins.autotests.cloud/job/tinkoff-tests/"><img src="" alt="Jenkins"/></a>
+<a href="https://jenkins.autotests.cloud/job/tinkoff-tests/"><img src="images/screenshots/Jenkins.png" alt="Jenkins"/></a>
 </p>
 
 ### :maple_leaf: Параметры сборки в Jenkins:
@@ -62,18 +62,18 @@ test
 -Durl=${REMOTE_URL}
 ```
 
-## <img src="images/logo/Allure.svg" width="25" height="25"  alt="Allure"/></a> Отчет в <a target="_blank" href="https://jenkins.autotests.cloud/job/10_DikayaAV_unit13/allure/">Allure report</a>
+## <img src="images/logo/Allure.svg" width="25" height="25"  alt="Allure"/></a> Отчет в <a target="_blank" href="https://jenkins.autotests.cloud/job/tinkoff-tests/11/allure/">Allure report</a>
 
 ### :lady_beetle: Основное окно
 
 <p align="center">
-<img title="Allure Overview Dashboard" src="images/screens/Screenshot_523.png">
+<img title="Allure Overview Dashboard" src="images/screenshots/AllureMain.png">
 </p>
 
 ### :cherries: Тесты
 
 <p align="center">
-<img title="Allure Tests" src="images/screens/Screenshot_524.png">
+<img title="Allure Tests" src="images/screenshots/AllureTests.png">
 </p>
 
 ### :cut_of_meat: Графики
