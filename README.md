@@ -79,7 +79,7 @@ test
 ### :cut_of_meat: Графики
 
 <p align="center">
-<img title="Allure Graphics" src="images/screens/Screenshot_525.png">
+<img title="Allure Graphics" src="images/screenshots/AllureGrahs.png">
 </p>
 
 ## <img src="images/logo/Telegram.svg" width="25" height="25"  alt="Allure"/></a> Уведомление в Telegram при помощи бота
