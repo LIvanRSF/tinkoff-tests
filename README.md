@@ -10,7 +10,7 @@
 ### For run remote tests need fill remote.properties or to pass value:
 
 * browser (default chrome)
-* browserVersion (default 89.0)
+* browserVersion (default 100.0)
 * browserSize (default 1920x1080)
 * browserMobileView (mobile device name, for example iPhone X)
 * remoteDriverUrl (url address from selenoid or grid)
@@ -37,7 +37,7 @@ allure serve build/allure-results
 ###### For further development there are some example tests in src/test/java/cloud.autotests/tests/demowebshop
 * remove @Disabled("...") annotation to run tests
 ```bash
-gradle clean demowebshop
+gradle clean tests
 ```
 
 :heart: <a target="_blank" href="https://qa.guru">qa.guru</a><br/>
